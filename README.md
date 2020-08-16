@@ -92,7 +92,7 @@
 > + Litet nu, börja direkt.
 > + Litet imorgon, sluta när som.
 
-######  Mät och matcha din mouse sensitivity i alla spel du spelar, samma snurr i spelet på samma avstånd för musen. På alla ADS nivåer om du vill vara riktigt säker, men det går inte i alla spel. Om du vet vart din mus ska du vet du vad du siktar på, busenkelt.
+######  Mät och matcha din mouse sensitivity i alla spel du spelar, samma snurr i spelet på samma avstånd för musen. På alla ADS nivåer om du vill vara riktigt säker, men det går inte i alla spel. Om du vet vart din mus ska så vet du vad du siktar på, busenkelt.
 
 ####   Öron är snabbare än ögon. Seriöst, mycket snabbare. Följ efter öronen, led med armen, ögonen berättar efter hand.
 + Springade fiender hörs jättelångt. Konstigt att missa.
