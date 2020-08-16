@@ -2,6 +2,12 @@
 > Jag antecknade generella tips om Apex Legends
 
 ![Image of Pathfinder](https://www.pixel4k.com/wp-content/uploads/2019/02/apex-legends-pathfinder-4K-12.jpg)
+
+#### Innehåll, och litet utrymme för att vila ögonen.
+1. [Livstil: Lär dig allt.](https://github.com/Royaltee/ApexNotes#livstil)
+2. [Uppförande i Fält: Vet var du har dig.](https://github.com/Royaltee/ApexNotes#uppf%C3%B6rande-i-f%C3%A4lt)
+3. [Teknik: Förstå hur du gör.](https://github.com/Royaltee/ApexNotes#teknik)
+
 ![Image of Wattson](https://media.contentapi.ea.com/content/dam/apex-legends/images/2019/01/legends-character-tiles/apex-grid-tile-legends-wattson.png.adapt.crop16x9.200w.png)
 ![Image of Bloodhound](https://media.contentapi.ea.com/content/dam/apex-legends/images/2019/01/legends-character-tiles/apex-grid-tile-legends-bloodhound.png.adapt.crop16x9.200w.png)
 ## _Livstil_
