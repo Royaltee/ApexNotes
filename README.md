@@ -9,6 +9,8 @@
 > #### 1. [Livstil: Lär dig allt.](https://github.com/Royaltee/ApexNotes#livstil)
 > #### 2. [Uppförande i Fält: Vet var du har dig.](https://github.com/Royaltee/ApexNotes#uppf%C3%B6rande-i-f%C3%A4lt)
 > #### 3. [Teknik: Förstå hur du gör.](https://github.com/Royaltee/ApexNotes#teknik)
+> #### 4. Motståndare: Inte skriven.
+> #### 5. Vapen: Inte skriven.
 
 :compass: 
 
