@@ -118,3 +118,9 @@
 ![Image of Pathfinder](https://images2.alphacoders.com/989/989919.png)
 
 ## Del 4: Motsåndare, kommer kanske vid behov.
+
+Disclaimer |
+--- |
+Jag håller bara praktiska kunskaper i minnet. 
+Min attityd är att akademiska källor alltid går att söka upp vid behov. 
+Om du är osäker på fakta så dubbelkolla med några andra tills du har en stabil översikt.
