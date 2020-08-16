@@ -96,4 +96,6 @@
 
 ###### _(Pauser i allt du gör är hur dina muskler byggdes och kommer fortsätta byggas, de behöver vatten med, hela tiden)_
 
+![Image of Pathfinder](https://images2.alphacoders.com/989/989919.png)
+
 ## Del 4: Motsåndare, kommer kanske vid behov.
