@@ -82,6 +82,8 @@
 
 ######  _Investera inte för mycket och ge bort allt du inte behöver._
 
+### Ringen är på väg, nu! Glömde du bort den? Titta på klockan varje minut, eller oftare tills du börjar minnas, och se vart du ska på kartan. Alla är på väg dit.
+
 ![Image of Wraith](https://media.contentapi.ea.com/content/dam/apex-legends/images/2019/01/legends-character-tiles/apex-grid-tile-legends-wraith.png.adapt.crop16x9.200w.png)
 ![Image of Revenant](https://media.contentapi.ea.com/content/dam/apex-legends/images/2020/02/apex-legend-revenant-grid-tile.png.adapt.crop191x100.200w.png)
 ## _Teknik_
