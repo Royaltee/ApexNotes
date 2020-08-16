@@ -82,6 +82,8 @@
 
 ######  _Investera inte för mycket och ge bort allt du inte behöver._
 
+![Image of Respawn Beacon](https://gamepedia.cursecdn.com/apexlegends_gamepedia_en/1/10/SS_1.jpg)
+
 ### Ringen är på väg. Nu! Glömde du bort den?
 >  Titta på klockan varje minut, eller ännu oftare tills du börjar minnas.
 >   Vart ska du nu på kartan? Alla är på väg dit, planera din kurs.
