@@ -95,3 +95,5 @@
 > + Mjukt, avslappnat, precision kommer av vana och rå styrka, som kommer fort när du sover.
 
 ###### _(Pauser i allt du gör är hur dina muskler byggdes och kommer fortsätta byggas, de behöver vatten med, hela tiden)_
+
+## Del 4: Motsåndare, kommer kanske vid behov.
