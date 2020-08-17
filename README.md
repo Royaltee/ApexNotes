@@ -92,10 +92,10 @@
 ![Image of Revenant](https://media.contentapi.ea.com/content/dam/apex-legends/images/2020/02/apex-legend-revenant-grid-tile.png.adapt.crop191x100.200w.png)
 ## _Teknik_
 
-####   Repetera alls, ofta är bättre än mycket, sällan.
-+ Repetera allt. Bekvämt är bekant så slappna av bara.
+####   Repetera litet varje dag, ofta är bättre än mycket och sällan.
++ Repetera allt. Bekvämt är bekant så slappna av och ta det lugnt.
 + Testskjut några skott mot huvudet i träningsläget, varför inte.
-+ Sikta på teammates när du inte spelar på allvar eller ännu bättre; spela ett spel med flera och längre strider i för att sikta mycket.
++ Sikta på teammates när du inte spelar på allvar eller ännu bättre; spela ett spel med flera strider, och längre strider, för hålla tempot uppe.
 
 > + Litet nu, börja direkt.
 > + Litet imorgon, sluta när som.
