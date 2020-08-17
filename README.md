@@ -6,7 +6,7 @@
 :bookmark_tabs: 
 
 > ### Innehåll, och litet utrymme för att vila ögonen.
-> #### 1. [Livstil: Lär dig allt.](https://github.com/Royaltee/ApexNotes#livstil)
+> #### 1. [Livsstil: Lär dig allt.](https://github.com/Royaltee/ApexNotes#livsstil)
 > #### 2. [Uppförande i Fält: Vet var du har dig.](https://github.com/Royaltee/ApexNotes#uppf%C3%B6rande-i-f%C3%A4lt)
 > #### 3. [Teknik: Förstå hur du gör.](https://github.com/Royaltee/ApexNotes#teknik)
 > #### 4. Motståndare: Inte skriven.
@@ -16,7 +16,7 @@
 
 ![Image of Wattson](https://media.contentapi.ea.com/content/dam/apex-legends/images/2019/01/legends-character-tiles/apex-grid-tile-legends-wattson.png.adapt.crop16x9.200w.png)
 ![Image of Bloodhound](https://media.contentapi.ea.com/content/dam/apex-legends/images/2019/01/legends-character-tiles/apex-grid-tile-legends-bloodhound.png.adapt.crop16x9.200w.png)
-## _Livstil_
+## _Livsstil_
 
 ####   Det är kul att öva. Klättra/Headshots överallt, bara försök. Det är nu du har tid.
 + Missa inte chanser att lära, du vet själv vad du behöver mest.
@@ -63,9 +63,9 @@
 
 ![Image of Pathfinder](https://images.alphacoders.com/995/995791.jpg)
 
-####  Alla mot alla: spring inte för fort från björnen _(50+ motståndare)_, bara fortare än de andra.
-+ Ljud attraherar björnen, lämna ljud åt fel håll.
-+ Förbered mer än björnen, inte för länge eller för tidigt.
+####  Alla mot alla: spring inte blint, bara fortare än de de kan se.
++ Ljud attraherar en konstant ström av anfallare, lämna ljud åt fel håll.
++ Förbered bara mer än närmaste motståndare, attackera inte för sent och tappa inte för mycket tid eller uppmärksamhet.
 + Smyg inte framifrån, storma inte bakifrån.
 ###### _Om ni inte har bråttom är det kanske dags att ta en promenad. Det är alltid någon som springer någonstans._
 
