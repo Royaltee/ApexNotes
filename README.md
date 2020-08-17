@@ -59,8 +59,8 @@
 > _(Det är ofta bäst att avsluta en strid innan man läker sig alls men
 >  tempot slackar när ditt lag inte har samma åsikt, anpassa din takt.)_
 
-###  Går det bra? Allting kan gå dåligt, det är bara någonting man säger.
->   Du bestämmer vad som är "bra" eller "dåligt".
+###  Går det bra? Vad som helst kan gå dåligt, det är ju bara någonting man säger egentligen.
+>   Du bestämmer vad som är "bra" eller "dåligt" i din egen process.
 
 ![Image of Pathfinder](https://images.alphacoders.com/995/995791.jpg)
 
