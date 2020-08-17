@@ -117,7 +117,7 @@
 
 ![Image of Pathfinder](https://images2.alphacoders.com/989/989919.png)
 
-## Del 4: Motsåndare, kommer kanske vid behov.
+## Del 4: Motståndare, kommer kanske vid behov.
 
 Disclaimer |
 --- |
