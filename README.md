@@ -23,22 +23,23 @@
   + Håll reda på resultat, du är garanterat bättre än igår.
   + Fyll ut uppmärksamheten. Det är roligare att spela vaken och hyperaktiv.
  
-####   Det är kul att studera. Wiki/Video, det finns på internet och den bästa informationen brukar vara den som ser renast ut.
+####   Det är kul att studera. Wiki-sidor och Youtube-videor finns i mängder på internet och den bästa informationen brukar vara rak och direkt.
 + Pathfinder kan klättra högt upp och fånga motståndare med kroken.
 + Du kan boxa Loba när hon håller på att teleporteras, du kommer teleportera med henne.
 + Kamrater kan mineras med dina arc stars medan de springer in.
   + _Det finns alltid mer att lära..._
 
-####   Lär känna vapnen, de är kompisar, med dig och varandra.
-+ Avstånd, personlighet, siffror (wiki)
-  + Vissa får mer ammunition än andra
-  + Gevärkulor flyger snabbare, heavy flyger litet litet långsammare. _(Wingman är slö, close range)_
+####   Lär känna vapnen, de är dina bästa vänner och går bra ihop med varandra.
++ Bästa avstånd, rytm och personlighet, precis hur många träffar som behövs.
+  + Vissa typer av ammunition finns på särskilda ställen som skjul. Vissa är vanliga att hitta i deathboxes.
+  + Gevärkulor från långa vapen flyger snabbare, "heavy" kulor flyger litet litet långsammare för att belöna bättre sikte. _(Wingman används bäst på nära håll.)_
+###### Visste du att korta vapen inte kan få "headshots" på längre avstånd? Vapnens individuella avstånd finns på wikisidor och i patchnotes.
 
 > + När du vilar äter hjärnan upp det du inte hann förstå.
-> + Om du försöker igen kommer hjärnan jämföra med ditt första försök.
+> + Om du försöker igen senare kommer hjärnan försöka jämföra med ditt första försök.
 > + Bit tag i att allting du tjänar på är roligt. Det slutar aldrig bli mer roligt.
 
-### Vad tycker du om vapnen? Låtsas att ni aldrig träffats förut, oviktiga problem kan försvinna.
+### Vad tycker du om vapnen? Låtsas att du aldrig provat dem förut, oviktiga problem kan försvinna med en ny attityd.
 
 ![Image of Lifeline](https://media.contentapi.ea.com/content/dam/apex-legends/images/2019/01/legends-character-tiles/apex-grid-tile-legends-lifeline.png.adapt.crop16x9.200w.png)
 ![Image of Gibraltar](https://media.contentapi.ea.com/content/dam/apex-legends/images/2019/01/legends-character-tiles/apex-grid-tile-legends-gibraltar.png.adapt.crop16x9.200w.png)
