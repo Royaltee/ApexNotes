@@ -111,7 +111,7 @@
 
 > Se allt, du är säkrare om du kan se fienden se dig.
 > + Lås blicken på siktet, flytta inte ögonen eller huvudet, slappna helst av i nacken, sluta aldrig röra på siktet.
-> + Sikta !! _inte_ !! med ögonen. Sikta "blint" med armen, skjut snabbt först sedan mät om resultatet med ögonen för att planera nästa serie armrörelser.
+> + Sikta !! _inte_ !! med ögonen. Sikta "blint" med armen, skjut snabbt först mät sedan om resultatet med ögonen när du har tid att planera nästa serie armrörelser.
 > + Rör dig mjukt, andas in djupt och ut avslappnat, precision kommer av vana och rå styrka. Dessa kommer fort när du sover.
 
 ###### _(Pauser i allt du gör är hur dina muskler byggdes och kommer fortsätta byggas, de behöver vatten med så drick litet hela tiden.)_
