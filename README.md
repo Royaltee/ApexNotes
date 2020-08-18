@@ -26,7 +26,7 @@
  
 ####   Det är kul att studera. Wiki-sidor och Youtube-videor finns i mängder på internet och den bästa informationen brukar vara rak och direkt.
 + Pathfinder kan klättra högt upp och fånga motståndare med kroken.
-+ Du kan boxa Loba när hon håller på att teleporteras, du kommer teleportera med henne.
++ ~~Du kan boxa Loba när hon håller på att teleporteras, du kommer teleportera med henne.~~ _Fungerar inte längre._
 + Kamrater kan mineras med dina arc stars medan de springer in.
   + _Det finns alltid mer att lära..._
 
