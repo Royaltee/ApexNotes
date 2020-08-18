@@ -5,7 +5,8 @@
 
 :bookmark_tabs: 
 
-> ### Innehåll, och litet utrymme för att vila ögonen.
+> ### Innehåll
+###### och litet utrymme för att vila ögonen.
 > #### 1. [Livsstil: Lär dig allt.](https://github.com/Royaltee/ApexNotes#livsstil)
 > #### 2. [Uppförande i Fält: Vet var du har dig.](https://github.com/Royaltee/ApexNotes#uppf%C3%B6rande-i-f%C3%A4lt)
 > #### 3. [Teknik: Förstå hur du gör.](https://github.com/Royaltee/ApexNotes#teknik)
